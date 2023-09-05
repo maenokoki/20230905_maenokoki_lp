@@ -433,9 +433,9 @@ header {
     position: absolute;
     content: "";
     display: inline-block;
-    background: url(img/mailicon.svg);
+    background: url(../img/mailicon.svg);
     background-size: cover;
-    width: 300px;
+    width: 400px;
 }
 
 .copyrigth {
