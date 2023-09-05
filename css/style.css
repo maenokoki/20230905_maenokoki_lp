@@ -1,6 +1,5 @@
 body {
     width: 100%;
-    background-color: red;
 }
 
 header {
@@ -41,12 +40,10 @@ header {
     position: absolute;
     top: 10%;
     left: 20%;
-    font-size: 45px;
+    font-size: 55px;
     line-height: 100px;
     color: blueviolet;
-    font-family: 'Caveat', cursive;
-    font-family: 'Gorditas', cursive;
-    font-family: 'Noto Serif JP', serif;
+    font-family: 'Indie Flower', cursive;
 }
 
 .firstview__txt1 {
@@ -420,7 +417,7 @@ header {
     color: #fff;
     background: linear-gradient(90deg, rgb(250, 3, 250), purple);
     display: block;
-    width: 200px;
+    width: 250px;
     margin: 0 auto 50px;
     border-radius: 30px;
     text-align: center;
@@ -433,9 +430,12 @@ header {
     position: absolute;
     content: "";
     display: inline-block;
-    background: url(../img/mailicon.svg);
+    background: url(../img/mailicon.svg)no-repeat;
     background-size: cover;
-    width: 400px;
+    width: 25px;
+    height: 25px;
+    top: 15%;
+    left: 10%;
 }
 
 .copyrigth {
