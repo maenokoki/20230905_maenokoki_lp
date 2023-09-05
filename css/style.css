@@ -84,8 +84,8 @@ header {
 
 .news__list {
     list-style: none;
-    border-top: solid 2px aqua;
-    border-bottom: solid 2px aqua;
+    border-top: solid 2px rgba(8, 156, 156, 0.349);
+    border-bottom: solid 2px rgba(8, 156, 156, 0.349);
     padding: 15px 0px;
 }
 
@@ -93,7 +93,7 @@ header {
     font-size: 15px;
     margin: 15px 0px;
     padding-bottom: 10px;
-    border-bottom: solid 1px aqua;
+    border-bottom: solid 1px rgba(8, 156, 156, 0.349);
 }
 
 .news__list-round {
